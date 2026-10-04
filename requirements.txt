@@ -1,0 +1,22 @@
+# Core
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
+easyocr>=1.7
+# VietOCR: cài bằng `pip install --no-deps vietocr` (bản trên PyPI ghim pillow cũ)
+einops
+pyyaml
+opencv-python-headless>=4.8
+pillow>=10.0
+numpy
+scikit-learn
+tqdm
+# Web / API
+streamlit>=1.35
+pandas
+openpyxl
+fastapi
+uvicorn
+python-multipart
+# Public URL (tuỳ chọn)
+pyngrok

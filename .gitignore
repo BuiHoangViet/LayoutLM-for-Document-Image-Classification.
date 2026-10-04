@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.ipynb_checkpoints/
+.claude/
+
+# Dữ liệu lớn / dữ liệu người dùng — không đưa lên git
+dataset/
+dataset_processed/
+uploads/
+fonts/
+documents.db
+*.zip
+
+# Thư mục train tạm (train.py lưu vào đây trước khi thay model chính)
+model_output_new/
